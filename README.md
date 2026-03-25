@@ -1,0 +1,2 @@
+# Afluencia-Cablebus-Trolebus-y-Tren-Ligero-Ciudad-de-Mexico-2022-a-2026-Python
+Análisis exploratorio de datos (EDA) sobre la afluencia del Cablebús, Trolebús, y Tren Ligero de la CDMX (2022-2026). Utilizando Python y datos oficiales del Portal de Datos Abiertos de la CDMX, este proyecto identifica patrones temporales, estacionalidad y tendencias de movilidad urbana en los transportes eléctricos de la ciudad.
